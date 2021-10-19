@@ -29,7 +29,7 @@ The average Belgian:
 # Robert vs Iron Man
 ![robert](https://github.com/jonathandumas/ELEC0018-1-energy-markets/blob/44a660b5d3b1a9a7dc6733bf52482f3e934f2cd7/figures/robert.jpg)
 
-To grasp how much energy there is in a toaster, have a look at [Toaster challenged](https://youtu.be/S4O5voOCqAQ)
+To grasp how much energy there is in a toaster, have a look at [Toaster challenge](https://youtu.be/S4O5voOCqAQ)
 
 1 Robert to toast a slice of bread.
 
