@@ -37,3 +37,9 @@ To grasp how much energy there is in a toaster, have a look at [Toaster challeng
 
 43 000 Robert to power an airplane.
 
+# To dig the topic
+![reveilleur](https://github.com/jonathandumas/ELEC0018-1-energy-markets-retailers/blob/e1371cfdc105b62b32b5bd27fa537019332f8732/pdf/reveilleur.png)
+
+* Commission de Régulation de l'Électricité et du Gaz. [CREG](https://www.creg.be/fr)
+* Commission wallonne pour l’Energie, le régulateur wallon des marchés de l’électricité et du gaz. [CWAPE](https://www.cwape.be/)
+* Le Réveilleur. [Les dessous de l'électricité verte.](https://www.lereveilleur.com/les-dessous-de-lelectricite-verte/) et la [vidéo](https://youtu.be/goceQuwWwKA)
