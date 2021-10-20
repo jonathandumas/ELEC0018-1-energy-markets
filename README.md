@@ -6,8 +6,8 @@ Lectures given in the Energy Markets course at Liège University on residential 
 
 
 This intervention is composed of two lectures:
-* The [first lecture](https://github.com/jonathandumas/ELEC0018-1-energy-markets-retailers/blob/1422e0955eb5ed31c32e2437813e293fe1a138ec/pdf/Energy_market_2021_lesson_1.pdf) focuses on the residential energy supplier [video](https://youtu.be/sjT97rb3KHU). It provides the basics of the energy supplier perimeter and how to build a "green" energy offer.
-* The [second lecture](https://github.com/jonathandumas/ELEC0018-1-energy-markets-retailers/blob/1422e0955eb5ed31c32e2437813e293fe1a138ec/pdf/Energy_market_2021_lesson_2.pdf) addresses the residential electricity pricing offer [video](https://youtu.be/FPloVpKNNtQ). It presents the components of the energy part of the electricity bill. Then, it provides the methodology to price each one of these components.
+* The [first lecture](https://github.com/jonathandumas/ELEC0018-1-energy-markets-retailers/blob/1422e0955eb5ed31c32e2437813e293fe1a138ec/pdf/Energy_market_2021_lesson_1.pdf) focuses on the residential energy supplier [recorded video](https://youtu.be/sjT97rb3KHU). It provides the basics of the energy supplier perimeter and how to build a "green" energy offer.
+* The [second lecture](https://github.com/jonathandumas/ELEC0018-1-energy-markets-retailers/blob/1422e0955eb5ed31c32e2437813e293fe1a138ec/pdf/Energy_market_2021_lesson_2.pdf) addresses the residential electricity pricing offer [recorded video](https://youtu.be/FPloVpKNNtQ). It presents the components of the energy part of the electricity bill. Then, it provides the methodology to price each one of these components.
 
 
 Note:
